@@ -64,8 +64,8 @@ expand in the transportation and logistics industry; fleet management companies 
 increasingly adopt these systems to ensure the well-being of their drivers and reduce the risk
 of accidents.
 
-Contributors
-Pravallika Oggu
+##Contributors
+##Pravallika Oggu
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+##License
+##This project is licensed under the MIT License - see the LICENSE file for details.
