@@ -63,3 +63,9 @@ claims 1 and 9 respectively where in the use of drowsiness detection systems is 
 expand in the transportation and logistics industry; fleet management companies also
 increasingly adopt these systems to ensure the well-being of their drivers and reduce the risk
 of accidents.
+
+Contributors
+Pravallika Oggu
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
